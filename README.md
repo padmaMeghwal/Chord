@@ -1,2 +1,2 @@
 # Chord
-This source was written by me for chord implementation paper.
+This source code was written by me for chord implementation paper.
